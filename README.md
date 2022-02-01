@@ -1,6 +1,6 @@
 ### Bem-Vindo! Eu sou o João Gallego 👋
 
-- 🔭 Atualmente trabalho como QC(Quality Control)
+- 🔭 Atualmente trabalho como desenvolvedor .NET.
 - 🌱 Estudando (C#, Typescript, Flutter...)
 
 <div align="center">

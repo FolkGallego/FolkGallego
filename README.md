@@ -2,7 +2,8 @@
 
 - 🔭 Atualmente trabalho como desenvolvedor .NET.
 - 🌱 Estudando (C#, Typescript, Flutter...)
-
+<img align="right" alt="Gallego-pic" height="136" style="border-radius:50px;" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+  
 <div align="center">
   <a href="https://github.com/FolkGallego">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FolkGallego&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -16,7 +17,7 @@
   <img align="center" alt="Gallego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gallego-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Gallego-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gallego-pic" height="140" style="border-radius:50px;" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+  
 </div>
   
   ##

@@ -1,7 +1,18 @@
-### Bem-Vindo! Eu sou o João Gallego 👋
 
-- 🔭 Atualmente trabalho como desenvolvedor .NET.
-- 🌱 Estudando (C#, Typescript, Flutter...)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhhaW4yM3kza3RhZjVzOXoweXhqaXA2ajU2bmgycWY2bzU5cHlhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
+</div>
+
+<div id="header" align="center">
+  <a href = "mailto:joaogallegopolo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gallego/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <br>
+  
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+     <img src="https://komarev.com/ghpvc/?username=FolkGallego&style=para-o-emblema">
+  </a>
+</div>
+<br>
 
 <div align="center">
   <a href="https://github.com/FolkGallego">
@@ -16,16 +27,13 @@
   <img align="center" alt="Gallego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gallego-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Gallego-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Gallego-pic" height="140" style="border-radius:50px;" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+
 </div>
   
   ##
  
-<div> 
-  <a href = "mailto:joaogallegopolo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-gallego/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<div>  
+  
   ![Snake animation](https://github.com/FolkGallego/FolkGallego/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 

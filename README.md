@@ -50,11 +50,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FolkGallego&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
----
-
-## 🐍 Meus commits ao longo do tempo:
-
-<div>  
-  ![Snake animation](https://github.com/FolkGallego/FolkGallego/blob/output/github-contribution-grid-snake.svg)
-</div>
-
